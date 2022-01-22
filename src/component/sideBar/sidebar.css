@@ -1,0 +1,8 @@
+.sideBar{
+    background-color: #0e1a2b;
+}
+.sideInput{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
